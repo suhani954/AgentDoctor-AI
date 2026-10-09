@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+motor
+pymongo
+pydantic
+pydantic-settings
+email-validator
+python-dotenv
+python-jose[cryptography]
+bcrypt
+langgraph
+langchain
+langchain-community
+langchain-ollama
+pytest
+httpx
+black
